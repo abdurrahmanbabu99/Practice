@@ -1,0 +1,15 @@
+E:\DevSkill_CSharp_Course\Practice\Operator\bin\Debug\net6.0\Operator.exe
+E:\DevSkill_CSharp_Course\Practice\Operator\bin\Debug\net6.0\Operator.deps.json
+E:\DevSkill_CSharp_Course\Practice\Operator\bin\Debug\net6.0\Operator.runtimeconfig.json
+E:\DevSkill_CSharp_Course\Practice\Operator\bin\Debug\net6.0\Operator.dll
+E:\DevSkill_CSharp_Course\Practice\Operator\bin\Debug\net6.0\Operator.pdb
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.csproj.AssemblyReference.cache
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.AssemblyInfoInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.AssemblyInfo.cs
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.csproj.CoreCompileInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.dll
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\refint\Operator.dll
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.pdb
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\Operator.genruntimeconfig.cache
+E:\DevSkill_CSharp_Course\Practice\Operator\obj\Debug\net6.0\ref\Operator.dll

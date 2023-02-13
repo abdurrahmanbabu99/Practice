@@ -1,0 +1,15 @@
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.csproj.AssemblyReference.cache
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.AssemblyInfoInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.AssemblyInfo.cs
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.csproj.CoreCompileInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\bin\Debug\net6.0\Working_With_Class.exe
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\bin\Debug\net6.0\Working_With_Class.deps.json
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\bin\Debug\net6.0\Working_With_Class.runtimeconfig.json
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\bin\Debug\net6.0\Working_With_Class.dll
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\bin\Debug\net6.0\Working_With_Class.pdb
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.dll
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\refint\Working_With_Class.dll
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.pdb
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\Working_With_Class.genruntimeconfig.cache
+E:\DevSkill_CSharp_Course\Practice\Working_With_Class\Working_With_Class\obj\Debug\net6.0\ref\Working_With_Class.dll

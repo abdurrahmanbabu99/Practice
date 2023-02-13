@@ -1,0 +1,13 @@
+
+Primitive Data type mean Primary data type gulo
+C# a int a default value 0
+Unicode a ekti single data rakha jai
+Obj && string hochhe Refference type
+Baki sob Value Type
+
+Refference type actual reffernce store hoi a Heap Structure a data store hoi
+
+value type a value Stack a data store hoi and store actual value
+
+Array 3 type(single,Multi Dime, Jagged)
+Normally 2 type (Normal, Jagged)

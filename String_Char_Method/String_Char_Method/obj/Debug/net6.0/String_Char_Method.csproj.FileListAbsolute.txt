@@ -1,0 +1,15 @@
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\bin\Debug\net6.0\String_Char_Method.exe
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\bin\Debug\net6.0\String_Char_Method.deps.json
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\bin\Debug\net6.0\String_Char_Method.runtimeconfig.json
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\bin\Debug\net6.0\String_Char_Method.dll
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\bin\Debug\net6.0\String_Char_Method.pdb
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.csproj.AssemblyReference.cache
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.AssemblyInfoInputs.cache
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.AssemblyInfo.cs
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.csproj.CoreCompileInputs.cache
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.dll
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\refint\String_Char_Method.dll
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.pdb
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\String_Char_Method.genruntimeconfig.cache
+E:\DevSkill_CSharp_Course\Practice\String_Char_Method\String_Char_Method\obj\Debug\net6.0\ref\String_Char_Method.dll

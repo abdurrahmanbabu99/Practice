@@ -1,0 +1,15 @@
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\bin\Debug\net6.0\Inheritance(Sir_Example).exe
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\bin\Debug\net6.0\Inheritance(Sir_Example).deps.json
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\bin\Debug\net6.0\Inheritance(Sir_Example).runtimeconfig.json
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\bin\Debug\net6.0\Inheritance(Sir_Example).dll
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\bin\Debug\net6.0\Inheritance(Sir_Example).pdb
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).csproj.AssemblyReference.cache
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).GeneratedMSBuildEditorConfig.editorconfig
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).AssemblyInfoInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).AssemblyInfo.cs
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).csproj.CoreCompileInputs.cache
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).dll
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\refint\Inheritance(Sir_Example).dll
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).pdb
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\Inheritance(Sir_Example).genruntimeconfig.cache
+E:\DevSkill_CSharp_Course\Practice\Inheritance(Sir_Example)\Inheritance(Sir_Example)\obj\Debug\net6.0\ref\Inheritance(Sir_Example).dll
